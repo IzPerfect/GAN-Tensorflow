@@ -13,5 +13,5 @@ Requirement
 
 Reference Implementations
 ---
-+https://github.com/hwalsuklee/tensorflow-generative-model-collections
-+https://github.com/JJashim/GANs-Tensorflow
++ https://github.com/hwalsuklee/tensorflow-generative-model-collections
++ https://github.com/JJashim/GANs-Tensorflow
